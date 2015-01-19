@@ -5,11 +5,17 @@
         <meta http-equiv="X-UA-Compatible" content="chrome=1">
         <title>BLUE REVOLVER</title>
         <style>
-        html {
-            background: url(img/background.png) no-repeat center center fixed;
-            -webkit-background-size: cover;
-            -moz-background-size: cover;
-            -o-background-size: cover;
+
+        #video-bg {
+            position: fixed;
+            right: 0;
+            bottom: 0;
+            width: auto;
+            min-width: 100%;
+            height: auto;
+            min-height: 100%;
+            z-index: -100;
+            background: transparent url(img/br_loop_first.png) no-repeat;
             background-size: cover;
         }
 
@@ -23,6 +29,9 @@
         </style>
     </head>
     <body>
+        <video autoplay loop muted poster="img/br_loop-first.png" id="video-bg">
+            <source src="video/br_loop.webm" type="video/webm">
+        </video>
         <p><img src="img/logo.png" style="max-width: 80%" /></p>
         <p><iframe src="//itch.io/embed/16798" width="552" height="167" frameborder="0"></iframe></p>
     </body>
