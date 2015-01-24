@@ -1,15 +1,9 @@
 {
-  "title": "Press Kit - Company Name",
+  "title": "Press - Blue Revolver",
   "largeLinks": [
     {
-      "name": "CompanyName.com",
+      "name": "bluerevolvergame.com",
       "link": "&#47;"
-    }
-  ],
-  "projectLinks": [
-    {
-      "name": "Example Project",
-      "link": "projects&#47;exampleproject&#47;"
     }
   ],
   "layout": {
@@ -17,12 +11,10 @@
       "factsheet"
     ],
     "60%_Width": [
-      "description",
-      "history",
-      "projects"
+      "description"
     ],
     "50%_Width": [
-      "team-repeating-collaborator",
+      "team",
       "contact"
     ]
   },

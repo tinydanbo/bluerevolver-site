@@ -1,144 +1,129 @@
-# ![Company Name](assets/images/header.png)
+# ![Blue Revolver](assets/images/header.png)
 
 ## Factsheet
 
 **Developer:**  
-Company Name
-
-**Founding date:**  
-January 1, 2015
+Various
 
 **Website:**  
-[companydomain.com][homepage]
+[bluerevolvergame.com][homepage]
 
 **Press / Business contact:**  
-[press-contact@company.com][contact]
+[danbo@bluerevolvergame.com][contact]
 
 **Social:**  
-[twitter.com/companyname][twitter]  
-[facebook.com/companyname][facebook]  
-[Skype](callto:companyskypename)
+[twitter.com/bluerevolverstg][twitter] 
+
+**Devlog:**
+[bluerevolverstg.tumblr.com][tumblr] 
+
+**Release Date:**  
+Summer 2015
+
+**Platforms:**  
+Windows / Mac / Linux
+
+**Stores:**  
+Steam, Humble, itch.io
 
 **Releases:**  
-[exampleproject][example_project]
-
-**Address:**  
-Line 1  
-Line 2  
-Line 3
-
-**Phone:**  
-+00 (1) 22 33 44 55
+[v0.15 alpha demo][v015_alphademo]
 
 ## Description
 
-Stuff about the studio. Talk about yourselves in the third person!
+Blue Revolver is a fresh new manic shooter for PC. Inspired by the golden age of developers like CAVE and Raizing, we set out to create a challenging, interesting game for expert players - and to provide a set of special features to help new/casual players aspire to greatness.
+
+Mae, bunny-eared technical genius, is pitted against the forces of "Blue Revolver" - a group seeking to confiscate or neutralize her volatile, dangerous creations by sending a few hundred volatile, dangerous enemies at her. Blasting off in a prototype ship armed with a fancy special weapon, she strikes back at the heart of their base!
+
+The style of the game is vibrant but restrained, working at low base resolutions and strict colour palettes to achieve a look that fans are comparing to classic Japanese systems like the Wonderswan Color - though naturally with a lot of hard work, polish and pure energy behind it. 
+
+The defining mechanic of the game is usage of a special weapon - the full version will release with a wide variety of these - a special weapon capable of granting huge score multipliers if used at the right moment or of tearing through tough enemies. Players will have to constantly think about how and where to use the weapon or how to build the 8x chain necessary to rack up a high score - generally while dodging a few hundred bullets in the process.
+
+## Features
+
+* Arcade-authentic, demanding "bullet hell" action
+* Deep, nuanced "flourish" system for scoring - easy to learn but hard to master
+* 5 stages, plus a second loop for master players
+* Daily challenge mode gives players a reason to keep coming back
+* Novice mode 
+* Post-mortem analysis helps new players understand their play
+* Replay / scoreboard support
 
 ## History
 
-### Beginning
+The team came together some time in August 2014 for Ludum Dare 30, producing a "frantic action" game about a bunnygirl destroying enemies in and out of a mech - [RED ENTITY](http://woofycakes.itch.io/red-entity). The game was fairly well-received, claiming a #21 rating in Fun, #32 in Graphics, #39 in Audio and #41 overall out of over 2,500 entries. It quickly became clear that the team is capable of working together well, and we immediately began work expanding on Red Entity. However, after failing to determine a strong direction for the game to go in, the team decided to work on a manic shooter instead - a genre familiar and interesting to the artists and programmer - and the bunnygirl came along for the ride too in a similarly violent role.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-### Second subhed if you want it!
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Projects
-
-* [exampleproject][example_project]
+An alpha demo of the game was released on 19th January 2015, and was very well-received by both expert shooter fans and beginners - simple twitter support allowing players to share highscores and compare strategies even at this stage of development. We are currently pursuing Greenlight status (page not up yet), and hope to release v1.0 this summer. We do not currently intend to release the game as Early Access or to pursue crowdfunding.
 
 ## Videos
 
-We have a trailer and this is it. [And this is what we called the link](https://www.youtube.com/watch?v=WB0yAm6iXEw "Gunhouse Trailer on Youtube")  
+No trailer yet - some brief gameplay footage! [Youtube](https://www.youtube.com/watch?v=96OOodLX5ns "BLUE REVOLVER Alpha Demo - Gameplay Footage")
 
-<iframe src="//www.youtube.com/embed/WB0yAm6iXEw" frameborder="0" allowfullscreen></iframe>
-
-<br>
-
-This is some music from our games! [Yeah, you like it I think](http://www.youtube.com/watch?v=hxQAUADFCzw "Motohiro Kawashima live")
-<iframe src="//www.youtube.com/embed/hxQAUADFCzw" frameborder="0" allowfullscreen></iframe>
+<iframe src="//www.youtube.com/embed/96OOodLX5ns" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
-download all screenshots & photos as ** [.zip (63 KB)](assets/images/images.zip "Images zip") **
+download all screenshots & photos as ** [.zip (385 KB)](assets/images/images.zip "Images zip") **
 
 [![image_01_name](assets/images/image_01.png)](assets/images/image_01.png)
 [![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
 [![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
 [![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
+[![image_04_name](assets/images/image_05.png)](assets/images/image_05.png)
+[![image_04_name](assets/images/image_06.png)](assets/images/image_06.png)
 
-## Logo & Icon
-
-download logo files as ** [.zip (7 KB)]( assets/images/logo.zip "Logo & Icon zip") **
+## Logo
 
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
-[![icon](assets/images/icon.png)](assets/images/icon.png "Icon")
 
-## Awards & Recognition
+## Articles
 
-> * "Winner, XX awards." - *game name, December 13, 2013*
-> * "Nominee, YY awards." - *game name, December 13, 2013*
+> "The level design, animation and fast paced gameplay make for a game fondly reminiscent of classic old-school Cave-style bullet-hell shooters – a fun and challenging game full of retro shmup’ thrills."  
+[Alpha Beta Gamer](http://www.alphabetagamer.com/blue-revolver-alpha-demo/)
 
-## Selected Articles
+> "Blue Revolver Is A Love Letter To Cave And Raizing's Shmups"  
+[Siliconera](http://www.siliconera.com/2015/01/23/blue-revolver-is-a-love-letter-to-cave-and-raizings-shmups/)
 
-> * "Quote quote quote."  
--- *Person Name, [Website](http://www.website.com/)*
+## Team
 
+**woof**  
+[art](https://twitter.com/woofycakes)
 
-> * "More quotes."  
--- *Person name, [Site](http://geocities.blog.com/)*
+**danbo**  
+[code / design](https://twitter.com/__danbo)
 
+**comic-z**  
+[art](https://twitter.com/ComicZ)
 
-## Additional Links
+**qygen**  
+[music](https://soundcloud.com/qygen)
 
-**Company Link #1**  
-Link to your company, or some affiliate. Located [here](https://link)
+**Wyrm**  
+[sound](https://twitter.com/SmilingCorpseHQ)
 
-**Company Link #2**  
-Another of these. See [here](https://link)
+**Novaturtle**  
+[music](https://soundcloud.com/l-hartley/)  
 
-## Team & Repeating Collaborator
-
-**Probably the founder's name goes here**  
-[Founder](https://link)
-
-**Another person's name**  
-[developer maybe](https://link)
-
-**Another person, show em if you've got em**  
-[artist, who knows](https://link)
-
-**A fourth person**  
-[music, sound?](https://link)
 
 ## Contact
 
 **Inquiries**  
-[press-contact@company.com][contact]
+[danbo@bluerevolvergame.com][contact]
 
 **Twitter**  
-[twitter.com/companyname][twitter]
-
-** Facebook**  
-[facebook.com/companyname][facebook]
-
-**Web**  
-[companydomain.com][homepage]
+[twitter.com/bluerevolverstg][twitter]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
 [homepage]: http://companydomain.com "Company Name"
-
-[contact]: mailto:press-contact@company.com
+[tumblr]: http://bluerevolverstg.tumblr.com
+[contact]: mailto:danbo@bluerevolvergame.com
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/companyname
+[twitter]: https://twitter.com/bluerevolverstg
 [facebook]: https://facebook.com/companyname
 [skype]: callto:companyskypename
 
-<!--- Projects  -->
-
-[example_project]: projects/exampleproject/
+[v015_alphademo]: http://woofycakes.itch.io/blue-revolver-demo
