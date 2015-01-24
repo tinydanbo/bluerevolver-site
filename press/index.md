@@ -65,20 +65,17 @@ No trailer yet - some brief gameplay footage! [Youtube](https://www.youtube.com/
 
 download all screenshots as ** [.zip (385 KB)](assets/images/blue-revolver-screenshots.zip "Images zip") **
 
+download all promo art as ** [.zip (3.31 MB)](assets/images/blue-revolver-promo.zip "Promo zip") **
+
 [![image_01_name](assets/images/image_01.png)](assets/images/image_01.png)
 [![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
 [![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
 [![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
 [![image_04_name](assets/images/image_05.png)](assets/images/image_05.png)
 [![image_04_name](assets/images/image_06.png)](assets/images/image_06.png)
-
-## Promo Art
-
-download all promo art as ** [.zip (3.31 MB)](assets/images/blue-revolver-promo.zip "Promo zip") **
-
 [![image_01_name](assets/images/banner.png)](assets/images/banner.png)
 [![image_02_name](assets/images/char_mae.png)](assets/images/char_mae.png)
-[![image_03_name](assets/images/char_mae_t.png)](assets/images/char_mae_t.png)  
+[![image_03_name](assets/images/char_mae_t.png)](assets/images/char_mae_t.png)
 
 ## Logo
 
