@@ -14,10 +14,10 @@ Various
 **Social:**  
 [twitter.com/bluerevolverstg][twitter] 
 
-**Devlog:**
+**Devlog:**  
 [bluerevolverstg.tumblr.com][tumblr] 
 
-**Greenlight launch date:**
+**Greenlight launch date:**  
 3rd February 2015
 
 **Release Date:**  
