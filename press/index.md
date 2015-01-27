@@ -17,6 +17,9 @@ Various
 **Devlog:**
 [bluerevolverstg.tumblr.com][tumblr] 
 
+**Greenlight launch date:**
+3rd February 2015
+
 **Release Date:**  
 Summer 2015
 
@@ -53,7 +56,7 @@ The defining mechanic of the game is usage of a special weapon - the full versio
 
 The team came together some time in August 2014 for Ludum Dare 30, producing a "frantic action" game about a bunnygirl destroying enemies in and out of a mech - [RED ENTITY](http://woofycakes.itch.io/red-entity). The game was fairly well-received, claiming a #21 rating in Fun, #32 in Graphics, #39 in Audio and #41 overall out of over 2,500 entries. It quickly became clear that the team is capable of working together well, and we immediately began work expanding on Red Entity. However, after failing to determine a strong direction for the game to go in, the team decided to work on a manic shooter instead - a genre familiar and interesting to the artists and programmer - and the bunnygirl came along for the ride too in a similarly violent role.
 
-An alpha demo of the game was released on 19th January 2015, and was very well-received by both expert shooter fans and beginners - simple twitter support allowing players to share highscores and compare strategies even at this stage of development. We are currently pursuing Greenlight status (page not up yet), and hope to release v1.0 this summer. We do not currently intend to release the game as Early Access or to pursue crowdfunding.
+An alpha demo of the game was released on 19th January 2015, and was very well-received by both expert shooter fans and beginners - simple twitter support allowing players to share highscores and compare strategies even at this stage of development. We are currently pursuing Greenlight status (launching our Greenlight page on 3rd February 2015), and hope to release v1.0 this summer. We do not currently intend to release the game as Early Access or to pursue crowdfunding.
 
 ## Videos
 
