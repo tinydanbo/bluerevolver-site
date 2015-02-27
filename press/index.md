@@ -124,7 +124,7 @@ download all promo art as ** [.zip (3.31 MB)](assets/images/blue-revolver-promo.
 <!--- =====================================================================  -->
 <!--- Referenced links -->
 
-[homepage]: http://companydomain.com "Company Name"
+[homepage]: http://bluerevolvergame.com "Blue Revolver"
 [tumblr]: http://bluerevolverstg.tumblr.com
 [contact]: mailto:danbo@bluerevolvergame.com
 
