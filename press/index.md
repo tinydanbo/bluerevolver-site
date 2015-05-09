@@ -3,7 +3,7 @@
 ## Factsheet
 
 **Developer:**  
-Various
+Stellar Circle
 
 **Website:**  
 [bluerevolvergame.com][homepage]
@@ -60,22 +60,33 @@ An alpha demo of the game was released on 19th January 2015, and was very well-r
 
 ## Videos
 
-No trailer yet - some brief gameplay footage! [Youtube](https://www.youtube.com/watch?v=96OOodLX5ns "BLUE REVOLVER Alpha Demo - Gameplay Footage")
+No trailer yet - some brief gameplay footage! 
+
+[Youtube](https://www.youtube.com/watch?v=96OOodLX5ns "BLUE REVOLVER Alpha Demo - Gameplay Footage")
+[Youtube](https://www.youtube.com/watch?v=98OS8_GQxAQ "BLUE REVOLVER Dev Footage - April 2015")
 
 <iframe src="//www.youtube.com/embed/96OOodLX5ns" frameborder="0" allowfullscreen></iframe>
 
 ## Images
 
-download all screenshots as ** [.zip (385 KB)](assets/images/blue-revolver-screenshots.zip "Images zip") **
+download all screenshots as ** [.zip (385 KB)](assets/images/bluerev_may2015.zip "Images zip") **
 
 download all promo art as ** [.zip (3.31 MB)](assets/images/blue-revolver-promo.zip "Promo zip") **
 
-[![image_01_name](assets/images/image_01.png)](assets/images/image_01.png)
-[![image_02_name](assets/images/image_02.png)](assets/images/image_02.png)
-[![image_03_name](assets/images/image_03.png)](assets/images/image_03.png)
-[![image_04_name](assets/images/image_04.png)](assets/images/image_04.png)
-[![image_04_name](assets/images/image_05.png)](assets/images/image_05.png)
-[![image_04_name](assets/images/image_06.png)](assets/images/image_06.png)
+[![image_01_name](assets/images/bluerev_may2015_01.png)](assets/images/bluerev_may2015_01.png)
+[![image_02_name](assets/images/bluerev_may2015_02.png)](assets/images/bluerev_may2015_02.png)
+[![image_03_name](assets/images/bluerev_may2015_03.png)](assets/images/bluerev_may2015_03.png)
+[![image_04_name](assets/images/bluerev_may2015_04.png)](assets/images/bluerev_may2015_04.png)
+[![image_05_name](assets/images/bluerev_may2015_05.png)](assets/images/bluerev_may2015_05.png)
+[![image_06_name](assets/images/bluerev_may2015_06.png)](assets/images/bluerev_may2015_06.png)
+[![image_01_name](assets/images/bluerev_may2015_07.png)](assets/images/bluerev_may2015_07.png)
+[![image_02_name](assets/images/bluerev_may2015_08.png)](assets/images/bluerev_may2015_08.png)
+[![image_03_name](assets/images/bluerev_may2015_09.png)](assets/images/bluerev_may2015_09.png)
+[![image_04_name](assets/images/bluerev_may2015_10.png)](assets/images/bluerev_may2015_10.png)
+[![image_05_name](assets/images/bluerev_may2015_11.png)](assets/images/bluerev_may2015_11.png)
+[![image_06_name](assets/images/bluerev_may2015_12.png)](assets/images/bluerev_may2015_12.png)
+[![image_01_name](assets/images/bluerev_may2015_13.png)](assets/images/bluerev_may2015_13.png)
+[![image_02_name](assets/images/bluerev_may2015_14.png)](assets/images/bluerev_may2015_14.png)
 [![image_01_name](assets/images/banner.png)](assets/images/banner.png)
 [![image_02_name](assets/images/char_mae.png)](assets/images/char_mae.png)
 [![image_03_name](assets/images/char_mae_t.png)](assets/images/char_mae_t.png)
@@ -85,6 +96,12 @@ download all promo art as ** [.zip (3.31 MB)](assets/images/blue-revolver-promo.
 [![logo](assets/images/logo.png)](assets/images/logo.png "Logo")
 
 ## Articles
+
+> "Blue Revolver is a SHMUP with Real Personality"
+[Hardcore Gamer](http://www.hardcoregamer.com/2015/02/11/blue-revolver-is-a-shmup-with-real-personality/133904/)
+
+> "there’s a level of knowledge in Blue Revolver’s design that’s atypical of a small developer at this point in development"
+[Kritiqal](http://kritiqal.com/2015/03/25/indie-impressions-blue-revolver/)
 
 > "The level design, animation and fast paced gameplay make for a game fondly reminiscent of classic old-school Cave-style bullet-hell shooters – a fun and challenging game full of retro shmup’ thrills."  
 [Alpha Beta Gamer](http://www.alphabetagamer.com/blue-revolver-alpha-demo/)
