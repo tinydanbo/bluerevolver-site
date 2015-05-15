@@ -1,60 +1,307 @@
-<!doctype html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="chrome=1">
-        <title>BLUE REVOLVER</title>
-        <style>
 
-        #video-bg {
-            position: fixed;
-            right: 0;
-            bottom: 0;
-            width: auto;
-            min-width: 100%;
-            height: auto;
-            min-height: 100%;
-            z-index: -100;
-            background: transparent url(img/br_loop_first.png) no-repeat;
-            background-size: cover;
-        }
+<!DOCTYPE html>
+<html lang="en">
 
-        body {
-            text-align: center;
-            font-family: Arial,"Helvetica Neue",Helvetica,sans-serif
-        }
+<head>
 
-        p {
-            margin: 1em 0;
-        }
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="A manic shooter about a bunny-eared genius and a fancy weapon.">
+	<meta name="author" content="Stellar Circle">
 
-        a, a:link, a:visited, a:hover, a:active {
-            font-size: 1.2em;
-            color: white;
-            font: bold;
-            text-decoration: none;
-        }
-        </style>
-        <link rel="icon" type="image/png" href="favicon.png" />
-    </head>
-    <body>
-        <video autoplay loop muted poster="img/br_loop_first.png" id="video-bg">
-            <source src="video/br_loop_2.webm" type="video/webm">
-            <source src="video/br_loop_2.mp4" type="video/mp4">
-        </video>
-        <p><img src="img/logo.png" style="max-width: 70%" /></p>
-        <p><iframe src="//itch.io/embed/16798" width="552" height="167" frameborder="0"></iframe></p>
-        <p><a class="twitter-timeline" href="https://twitter.com/BlueRevolverSTG" data-widget-id="596841771595866112">Tweets by @BlueRevolverSTG</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
-        <p><a href="http://bluerevolvergame.com/press/">Presskit</a></p>
-        <script>
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+	<title>BLUE REVOLVER</title>
 
-            ga('create', 'UA-58693349-1', 'auto');
-            ga('send', 'pageview');
-        </script>
-    </body>
+	<!-- Bootstrap Core CSS -->
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+	<!-- Custom CSS -->
+	<style>
+		* {
+			color: #EEE;
+		}
+
+		html, body {
+			width: 100%;
+			height: 100%;
+		}
+
+		header {
+			height: 100%;
+			min-height: 100%;
+			width: 100%;
+			display: table;
+		}
+
+		.header-content {
+			display: table-cell;
+			vertical-align: middle;
+			padding: 0 50px;
+			margin: 0 auto;
+			width: 100%;
+			text-align: center;
+		}
+
+		.header-content-inner {
+			margin: 0 auto;
+			width: 100%;
+		}
+
+		hr {
+			max-width: 120px;
+			border-color: #597DCE;
+			border-width: 5px;
+			margin: 30px auto;
+		}
+
+		h1 {
+			text-shadow: 2px 2px #000;
+		}
+
+		.main-content {
+			background: rgba(20, 12, 28, 0.9);
+		}
+
+		.main-content a {
+			color: #6DC2CA;
+			text-decoration: none;
+		}
+
+		.main-content a:hover {
+			color: #deeed6;
+		}
+
+		.main-content a i {
+			color: #6DC2CA;
+			transition: all .2s ease-in-out;
+		}
+
+		.main-content a:hover i {
+			color: #deeed6;
+			transform: scale(1.1);
+		}
+
+		.footer-content {
+			background: rgba(68, 36, 52, 1);
+		}
+
+		.footer-content a {
+			color: #6dc2ca;
+		}
+
+		.youtube-frame {
+			background: white;
+			padding: 10px;
+			-webkit-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.75);
+			-moz-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.75);
+			box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.75);
+		}
+
+		video#bgvid {
+			position: fixed; right: 0; bottom: 0;
+			min-width: 100%; min-height: 100%;
+			width: auto; height: auto; z-index: -100;
+			background: url(video/br_loop_2.png) no-repeat;
+			background-size: cover;
+		}
+
+		@media screen and (max-device-width: 800px) {
+			body { 
+				background: url(video/br_loop_2.png) #8595A1 no-repeat center center fixed; 
+				-webkit-background-size: cover;
+				-moz-background-size: cover;
+				-o-background-size: cover;
+				background-size: cover;
+			}
+			#bgvid { display: none; }
+		}
+	</style>
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+
+	<header>
+		<div class="header-content">
+		<div class="header-content-inner text-center">
+		<img src="img/logo.png" style="width: 75%; margin-bottom: 2em" />
+		<p>
+		<a class="btn btn-info disabled" role="button">Coming 2015</a>
+		<a class="btn btn-primary" href="http://woofycakes.itch.io/blue-revolver-demo" role="button">Play the v0.15 demo</a>
+		<a class="btn btn-info" href="https://twitter.com/BlueRevolverSTG" role="button"><i class="fa fa-twitter"></i> Follow on Twitter</a>
+		</p>
+		<hr />
+		</div>
+		</div>
+	</header>
+
+
+	<!-- Page Content -->
+	<div class="main-content">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+				<p class="text-center lead" style="margin-top: 1em">Blue Revolver is a forthcoming manic shooter, inspired by the bullet hell classics of the genre's golden age. Play as Mae, a technical genius on the run from the maniac environmental group, "Blue Revolver"!</p>
+			</div>
+		</div>
+
+		<div class="row" style="margin-top: 2em; margin-bottom: 2em">
+			<div class="col-md-7 col-md-offset-1">
+				<h2>Let's go!</h2>
+				<p>We're doing our best to create a manic shooter that brings a modern, fresh take on the true classic style of an unknown, neglected genre. Inspired by lifetimes of playing the CAVE/Raizing greats, we want to show the world the joy of bullet hell - taking the player through snowy canyons, busy dockyards, nightmare bases and <em>almost</em> invariably... to the game over screen.</p>
+				<p>But using a scoring system that's simple yet offers limitless possibilities, a novice mode and a post-mortem summary - we want to bring the joy of the struggle to a new generation of shooting game players, as well as offering a Parallel mode for veterans - featuring alternate boss patterns, new enemy behaviours and a rank system that refuses to let off the heat!</p>
+				<p>Blue Revolver is all about your special weapon - and whether you opt for a defensive type to give yourself a little respite, an offense type to punch through troublesome enemies, or a finesse type to reach higher and higher maximum scores - you'll have to make proper use of it to tear through each of the 5 stages and claim an elusive 1 credit clear. Or even better yet, a place atop the scoreboards...</p>
+			</div>
+			<div class="col-md-3">
+				<div class="visible-md-block visible-lg-block"><img src="img/special.png" /></div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-lg-12 text-center">
+			<div class="youtube-frame" style="width: 580px; height: 335px; margin: 0 auto;">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/98OS8_GQxAQ" frameborder="0" allowfullscreen></iframe>
+			</div>
+			</div>
+		</div>
+
+		<div class="row" style="margin-top: 1em;">
+			<div class="col-md-3 col-md-offset-1">
+				<div class="visible-md-block visible-lg-block"><img src="img/bomb.png" /></div>
+			</div>
+			<div class="col-md-7 text-right">
+				<h2>Flourish!</h2>
+				<p>At the heart of Blue Revolver lies the "flourish" scoring system - simple to learn, hard to master - with countless applications. Destroy enemies in quick succession to build up an 8-chain, then let loose on some big juicy targets with your special weapon to cash in a huge score reward - then your chain resets, and you can do it all over again. Where will you strike fiercest? Where will you build and cash in your chains? How will you spend that precious ammo? To push yourself even further, <em>"BREAK"</em> bonuses are awarded by destroying specific enemies in difficult ways...</p>
+				<p>On release, we will offer online scoreboards for quick comparisons with your friends - as well as replay file functionality to study/verify everyone else's play. On top of this, our daily challenge mode will bring a new type of struggle every day! Take on the hardest stages with a unique weapon, or see how much you can squeeze out of the easier stages with a severe shortage in ammunition.</p>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+				<h2 class="text-center">Features</h2>
+					<ul class="row">
+						<li class="col-xs-6">Windows, OS X, Linux</li>
+						<li class="col-xs-6">Vibrant pixel art style</li>
+						<li class="col-xs-6">Full original soundtrack</li>
+						<li class="col-xs-6">5 stages of heart-pounding struggle</li>
+						<li class="col-xs-6">3 difficulty modes</li>
+						<li class="col-xs-6">6+ special weapons</li>
+						<li class="col-xs-6">Daily challenge mode</li>
+						<li class="col-xs-6">Full replay support</li>
+						<li class="col-xs-6">Online highscores</li>
+						<li class="col-xs-6">"Post-mortem" for beginner players</li>
+						<li class="col-xs-6">Screen scaling options + rotate mode</li>
+						<li class="col-xs-6">Coming to Steam, itch.io and more</li>
+					</ul>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+				<h2 class="text-center">Development</h2>
+				<p class="text-center">Twitter is the best way to follow the development of the game. We'll be releasing another demo sometime soon, and you can look forward to the full release in Summer/August 2015.</p>
+				<p class="text-center">We've been <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=380437841">Greenlit</a> on Steam! Thank you so much!</p>
+			</div>
+		</div>
+
+		<div class="row" style="margin-bottom: 3em">
+			<div class="col-sm-2 col-sm-offset-2">
+				<div class="text-center">
+					<a href="http://twitter.com/BlueRevolverSTG">
+						<h3>Twitter</h3>
+						<i class="fa fa-twitter fa-5x"></i>
+					</a>
+				</div>
+			</div>
+			<div class="col-sm-2">
+				<div class="text-center">
+					<a href="http://bluerevolverstg.tumblr.com">
+						<h3>Devlog</h3>
+						<i class="fa fa-book fa-5x"></i>
+					</a>
+				</div>
+			</div>
+			<div class="col-sm-2">
+				<div class="text-center">
+					<a href="https://www.youtube.com/channel/UCuRdRykIm7OkgU-vCVoEj4g">
+						<h3>Videos</h3>
+						<i class="fa fa-youtube fa-5x"></i>
+					</a>
+				</div>
+			</div>
+			<div class="col-sm-2">
+				<div class="text-center">
+					<a href="http://bluerevolvergame.com/press/">
+						<h3>Presskit</h3>
+						<i class="fa fa-file-text fa-5x"></i>
+					</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12 text-center">
+				<img src="img/ship.gif" />
+			</div>
+		</div>
+
+	</div>
+	</div>
+
+	<div class="footer-content">
+	<div class="container">
+
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2 text-center" style="padding-bottom: 1em">
+				<h2>Stellar Circle</h2>
+				<p>Stellar Circle is a new group, located around the world - brought together by a <a href="http://woofycakes.itch.io/red-entity">Ludum Dare entry</a> and motivated by an aptitude for destruction. Blue Revolver is our first project!</p>
+				<div class="row">
+					<div class="col-xs-3 text-center">
+						<h4><i class="fa fa-paint-brush" style="padding-right: 8px"></i>Art</h4>
+						<p><a href="http://twitter.com/woofycakes">woof</a>, <a href="http://twitter.com/ComicZ">comicz</a></p>
+					</div>
+					<div class="col-xs-3 text-center">
+						<h4><i class="fa fa-terminal" style="padding-right: 8px"></i>Code/Design</h4>
+						<p><a href="http://twitter.com/__danbo">danbo</a></p>
+					</div>
+					<div class="col-xs-3 text-center">
+						<h4><i class="fa fa-music" style="padding-right: 8px"></i>Music</h4>
+						<p><a href="http://soundcloud.com/qygen">qygen</a>, <a href="https://soundcloud.com/l-hartley/">novaturtle</a></p>
+					</div>
+					<div class="col-xs-3 text-center">
+						<h4><i class="fa fa-headphones" style="padding-right: 8px"></i>Sound</h4>
+						<p><a href="http://smilingcorpse.com">wyrm</a></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- /.row -->
+
+	</div>
+	</div>
+	<!-- /.container -->
+
+	<!-- Fullscreen background video -->
+	<video autoplay loop poster="video/br_loop_2.png" id="bgvid">
+		<source src="video/br_loop_2.webm" type="video/webm">
+		<source src="video/br_loop_2.mp4" type="video/mp4">
+	</video>
+
+	<!-- jQuery Version 1.11.1 -->
+	<script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+	<!-- Bootstrap Core JavaScript -->
+	<script src="js/bootstrap.min.js"></script>
+
+</body>
+
 </html>
