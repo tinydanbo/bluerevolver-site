@@ -91,7 +91,7 @@ download all promo art as ** [.zip (7.17 MB)](assets/images/bluerev_september_ar
 
 [![](assets/images/banner.png)](assets/images/banner.png)
 [![](assets/images/br_cdf.png)](assets/images/br_cdf.png)
-[![](assets/images/char_mae2_t_cdf.png)](assets/images/char_mae2_t.png)
+[![](assets/images/char_mae2_t.png)](assets/images/char_mae2_t.png)
 [![](assets/images/char_ale_t.png)](assets/images/char_ale_t.png)
 [![](assets/images/char_rum_t.png)](assets/images/char_rum_t.png)
 [![](assets/images/char_don_t.png)](assets/images/char_don_t.png)
