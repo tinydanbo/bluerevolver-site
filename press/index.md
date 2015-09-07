@@ -72,25 +72,30 @@ No trailer yet - some brief gameplay footage!
 
 download all screenshots as ** [.zip (638 KB)](assets/images/bluerev_september_screenshots.zip "Images zip") **
 
-download all promo art as ** [.zip (3.31 MB)](assets/images/blue-revolver-promo.zip "Promo zip") **
+download all promo art as ** [.zip (7.17 MB)](assets/images/bluerev_september_art.zip "Promo zip") **
 
-[![image_01_name](assets/images/bluerev_may2015_01.png)](assets/images/bluerev_may2015_01.png)
-[![image_02_name](assets/images/bluerev_may2015_02.png)](assets/images/bluerev_may2015_02.png)
-[![image_03_name](assets/images/bluerev_may2015_03.png)](assets/images/bluerev_may2015_03.png)
-[![image_04_name](assets/images/bluerev_may2015_04.png)](assets/images/bluerev_may2015_04.png)
-[![image_05_name](assets/images/bluerev_may2015_05.png)](assets/images/bluerev_may2015_05.png)
-[![image_06_name](assets/images/bluerev_may2015_06.png)](assets/images/bluerev_may2015_06.png)
-[![image_01_name](assets/images/bluerev_may2015_07.png)](assets/images/bluerev_may2015_07.png)
-[![image_02_name](assets/images/bluerev_may2015_08.png)](assets/images/bluerev_may2015_08.png)
-[![image_03_name](assets/images/bluerev_may2015_09.png)](assets/images/bluerev_may2015_09.png)
-[![image_04_name](assets/images/bluerev_may2015_10.png)](assets/images/bluerev_may2015_10.png)
-[![image_05_name](assets/images/bluerev_may2015_11.png)](assets/images/bluerev_may2015_11.png)
-[![image_06_name](assets/images/bluerev_may2015_12.png)](assets/images/bluerev_may2015_12.png)
-[![image_01_name](assets/images/bluerev_may2015_13.png)](assets/images/bluerev_may2015_13.png)
-[![image_02_name](assets/images/bluerev_may2015_14.png)](assets/images/bluerev_may2015_14.png)
-[![image_01_name](assets/images/banner.png)](assets/images/banner.png)
-[![image_02_name](assets/images/char_mae.png)](assets/images/char_mae.png)
-[![image_03_name](assets/images/char_mae_t.png)](assets/images/char_mae_t.png)
+[![](assets/images/bluerev_sep2015_01.png)](assets/images/bluerev_sep2015_01.png)
+[![](assets/images/bluerev_sep2015_02.png)](assets/images/bluerev_sep2015_02.png)
+[![](assets/images/bluerev_sep2015_03.png)](assets/images/bluerev_sep2015_03.png)
+[![](assets/images/bluerev_sep2015_04.png)](assets/images/bluerev_sep2015_04.png)
+[![](assets/images/bluerev_sep2015_05.png)](assets/images/bluerev_sep2015_05.png)
+[![](assets/images/bluerev_sep2015_06.png)](assets/images/bluerev_sep2015_06.png)
+[![](assets/images/bluerev_sep2015_07.png)](assets/images/bluerev_sep2015_07.png)
+[![](assets/images/bluerev_sep2015_08.png)](assets/images/bluerev_sep2015_08.png)
+[![](assets/images/bluerev_sep2015_09.png)](assets/images/bluerev_sep2015_09.png)
+[![](assets/images/bluerev_sep2015_10.png)](assets/images/bluerev_sep2015_10.png)
+[![](assets/images/bluerev_sep2015_11.png)](assets/images/bluerev_sep2015_11.png)
+[![](assets/images/bluerev_sep2015_12.png)](assets/images/bluerev_sep2015_12.png)
+[![](assets/images/bluerev_sep2015_13.png)](assets/images/bluerev_sep2015_13.png)
+[![](assets/images/bluerev_sep2015_14.png)](assets/images/bluerev_sep2015_14.png)
+
+[![](assets/images/banner.png)](assets/images/banner.png)
+[![](assets/images/br_cdf.png)](assets/images/br_cdf.png)
+[![](assets/images/char_mae2_t_cdf.png)](assets/images/char_mae2_t_cdf.png)
+[![](assets/images/char_ale_t.png)](assets/images/char_ale_t.png)
+[![](assets/images/char_rum_t.png)](assets/images/char_rum_t.png)
+[![](assets/images/char_don_t.png)](assets/images/char_don_t.png)
+[![](assets/images/char_val_t.png)](assets/images/char_val_t.png)
 
 ## Logo
 
