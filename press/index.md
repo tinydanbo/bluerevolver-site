@@ -21,7 +21,7 @@ Stellar Circle
 [link][greenlight]
 
 **Release Date:**  
-Q1 2016
+December 2015
 
 **Platforms:**  
 Windows / Mac / Linux
@@ -96,6 +96,8 @@ download all promo art as ** [.zip (7.17 MB)](assets/images/bluerev_september_ar
 [![](assets/images/char_rum_t.png)](assets/images/char_rum_t.png)
 [![](assets/images/char_don_t.png)](assets/images/char_don_t.png)
 [![](assets/images/char_val_t.png)](assets/images/char_val_t.png)
+[![](assets/images/char_ira_t.png)](assets/images/char_ira_t.png)
+[![](assets/images/char_dee_t.png)](assets/images/char_dee_t.png)
 
 ## Logo
 
