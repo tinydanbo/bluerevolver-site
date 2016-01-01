@@ -72,7 +72,7 @@ No trailer yet - some brief gameplay footage!
 
 download all screenshots as ** [.zip (638 KB)](assets/images/bluerev_september_screenshots.zip "Images zip") **
 
-download all promo art as ** [.zip (7.17 MB)](assets/images/bluerev_september_art.zip "Promo zip") **
+download all promo art as ** [.zip (7.91 MB)](assets/images/bluerev_september_art.zip "Promo zip") **
 
 [![](assets/images/bluerev_sep2015_01.png)](assets/images/bluerev_sep2015_01.png)
 [![](assets/images/bluerev_sep2015_02.png)](assets/images/bluerev_sep2015_02.png)
