@@ -21,7 +21,7 @@ Stellar Circle
 [link][greenlight]
 
 **Release Date:**  
-December 2015
+Q1 2016
 
 **Platforms:**  
 Windows / Mac / Linux
