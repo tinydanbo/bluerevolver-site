@@ -7,7 +7,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="A manic shooter about a bunny-eared genius and a fancy weapon.">
+	<meta name="description" content="A manic shooter built for psychos and newcomers alike">
 	<meta name="author" content="Stellar Circle">
 
 	<title>BLUE REVOLVER</title>
@@ -28,10 +28,15 @@
 		}
 
 		header {
-			height: 100%;
-			min-height: 100%;
+			height: 50%;
+			min-height: 50%;
+			max-height: 676px;
 			width: 100%;
 			display: table;
+
+			background-image: url("img/mae_header.png");
+			background-repeat: no-repeat;
+			background-position: right top;
 		}
 
 		.header-content {
@@ -60,7 +65,7 @@
 		}
 
 		.main-content {
-			background: rgba(20, 12, 28, 0.9);
+			background: rgba(20, 12, 28, 0.96);
 		}
 
 		.main-content a {
@@ -116,6 +121,12 @@
 			}
 			#bgvid { display: none; }
 		}
+
+		@media (max-width: 1200px) {
+			header {
+				background-image: none;
+			}
+		}
 	</style>
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -131,10 +142,10 @@
 
 	<header>
 		<div class="header-content">
-		<div class="header-content-inner text-center">
-		<img src="img/logo.png" style="width: 75%; margin-bottom: 2em" />
+		<div class="header-content-inner text-center" style="padding-top: 30px">
+		<img src="img/logo.png" style="max-width: 75%; margin-bottom: 2em; max-height: 460px" />
 		<p>
-		<a class="btn btn-info disabled" role="button">Coming 2016</a>
+		<a class="btn btn-info disabled" role="button">Coming October 2016</a>
 		<a class="btn btn-primary" href="http://woofycakes.itch.io/blue-revolver-v05" role="button">Play the v0.50 demo</a>
 		<a class="btn btn-info" href="https://twitter.com/BlueRevolverSTG" role="button"><i class="fa fa-twitter"></i> Follow on Twitter</a>
 		</p>
@@ -148,18 +159,19 @@
 	<div class="main-content">
 	<div class="container">
 
+
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
-				<p class="text-center lead" style="margin-top: 1em">Blue Revolver is a forthcoming manic shooter, inspired by the bullet hell classics of the genre's golden age. Play as Mae, a technical genius on the run from the maniac environmental group, "Blue Revolver"!</p>
+				<p class="text-center lead" style="margin-top: 1em">A fresh new manic shooter, built for maniacs and newcomers alike.<br />For Windows, OS X and Linux.</p>
 			</div>
 		</div>
 
 		<div class="row" style="margin-top: 2em; margin-bottom: 2em">
 			<div class="col-md-7 col-md-offset-1">
 				<h2>Let's go!</h2>
-				<p>We're doing our best to create a manic shooter that brings a modern, fresh take on the true classic style of an unknown, neglected genre. Inspired by lifetimes of playing the CAVE/Raizing greats, we want to show the world the joy of bullet hell - taking the player through snowy canyons, busy dockyards, nightmare bases and <em>almost</em> invariably... to the game over screen.</p>
-				<p>But using a scoring system that's simple yet offers limitless possibilities, a novice mode and a post-mortem summary - we want to bring the joy of the struggle to a new generation of shooting game players, as well as offering a Parallel mode for veterans - featuring alternate boss patterns, new enemy behaviours and a rank system that refuses to let off the heat!</p>
-				<p>Blue Revolver is all about your special weapon - and whether you opt for a defensive type to give yourself a little respite, an offense type to punch through troublesome enemies, or a finesse type to reach higher and higher maximum scores - you'll have to make proper use of it to tear through each of the 5 stages and claim an elusive 1 credit clear. Or even better yet, a place atop the scoreboards...</p>
+				<p>Inspired by the CAVE/Raizing classics of the STG golden age, Blue Revolver is built from the ground up to be fast, lean and furious. Play as Mae - a rabbit-eared technical genius on the run from maniac environmental group "Blue Revolver", and shoot through 5 stages of struggle. Snowy mountains, busy dockyards, nightmare bases and more await you on your fight-and-flight rampage - each packed to the brim with vicious enemies, violent bosses and thousands of bullets!</p>
+				<hr />
+				<p>You're far from helpless though. Your ship is just as good at spewing out bullets as anything they can offer, and comes loaded with enough smart bombs to turn even the most nightmarish situation upside down - not only that, but each ship type comes with four special weapons to choose from, fully charged and customized for any number of tasks - slicing through groups of enemies, carving up bosses, blocking bullets or turning a screen full of chaos into a screen full of glistening point items!</p>
 			</div>
 			<div class="col-md-3">
 				<div class="visible-md-block visible-lg-block"><img src="img/special.png" /></div>
@@ -176,12 +188,30 @@
 
 		<div class="row" style="margin-top: 1em;">
 			<div class="col-md-3 col-md-offset-1">
-				<div class="visible-md-block visible-lg-block"><img src="img/bomb.png" /></div>
+				<div class="visible-md-block visible-lg-block"><img src="img/stasis.png" /></div>
 			</div>
 			<div class="col-md-7 text-right">
-				<h2>Flourish!</h2>
-				<p>At the heart of Blue Revolver lies the "flourish" scoring system - simple to learn, hard to master - with countless applications. Destroy enemies in quick succession to build up an 8-chain, then let loose on some big juicy targets with your special weapon to cash in a huge score reward - then your chain resets, and you can do it all over again. Where will you strike fiercest? Where will you build and cash in your chains? How will you spend that precious ammo? To push yourself even further, <em>"BREAK"</em> bonuses are awarded by destroying specific enemies in difficult ways...</p>
-				<p>On release, we will offer online scoreboards for quick comparisons with your friends - as well as replay file functionality to study/verify everyone else's play. On top of this, our daily challenge mode will bring a new type of struggle every day! Take on the hardest stages with a unique weapon, or see how much you can squeeze out of the easier stages with a severe shortage in ammunition.</p>
+				<h2>For beginners!</h2>
+				<p>Manic shooters can be daunting to get into, but infinitely rewarding once you understand the basics. With this in mind, we sought to make Blue Revolver truly beginner-friendly - our easiest mode will manage your bombs for you and heavily reign in the bullet patterns, but we haven't stopped there.</p>
+				<p>If going for a full clear is a bit too much right away, our <i>Mission</i> mode offers 24 bite-size chunks of shooting action. Each one is designed to build your skills in different ways - from pure survival and scoring challenges, to tests of endurance against multiple bosses, to odd things like experimental weapons and huge nemesis bullets that constantly follow you...</p> 
+				<p>We also feature a dynamic difficulty system - the difficulty climbs higher and higher the better you are, but should you suffer a bullet right where it hurts - the game eases up on you and lets you regain your breath. Far from being the end - losing a life here and there is simply part of the process!</p>
+			</div>
+		</div>
+
+		<div class="row" style="margin-top: 1em;">
+			<div class="col-md-7 col-md-offset-1">
+				<h2>For psychos!</h2>
+				<p>Once you're ready to up your game, it's time to chase high scores! At the heart of Blue Revolver lies the "flourish" scoring system - simple to learn, hard to master - with countless applications. Destroy enemies in quick succession to build up an 8-chain, then let loose on some big juicy targets with your special weapon to cash in a huge score reward - then your chain resets, and you can do it all over again. Where will you strike fiercest? Where will you build and cash in your chains? How will you spend that precious ammo? To push yourself even further, <em>"BREAK"</em> bonuses are awarded by destroying specific enemies in difficult ways...</p>
+				<p><i>Parallel</i> mode offers you more resources to play around with, but in exchange for such decadence the game is locked at the hardest it can push you! Beating this mode is for the truly stellar - and don't worry, there's a "nice" surprise at the end.</p>
+			</div>
+			<div class="col-md-3">
+				<div class="visible-md-block visible-lg-block"><img src="img/bomb.png" /></div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<img src="img/technicians.png" />
 			</div>
 		</div>
 
@@ -194,11 +224,9 @@
 						<li class="col-xs-6">Full original soundtrack</li>
 						<li class="col-xs-6">5 stages of heart-pounding struggle</li>
 						<li class="col-xs-6">3 difficulty modes</li>
-						<li class="col-xs-6">6+ special weapons</li>
-						<li class="col-xs-6">Daily challenge mode</li>
-						<li class="col-xs-6">Full replay support</li>
-						<li class="col-xs-6">Online highscores</li>
-						<li class="col-xs-6">"Post-mortem" for beginner players</li>
+						<li class="col-xs-6">8 special weapons</li>
+						<li class="col-xs-6">24 missions</li>
+						<li class="col-xs-6">Unlockable art, remix tracks and more</li>
 						<li class="col-xs-6">Screen scaling options + rotate mode</li>
 						<li class="col-xs-6">Coming to Steam, itch.io and more</li>
 					</ul>
@@ -208,7 +236,7 @@
 		<div class="row">
 			<div class="col-md-8 col-md-offset-2">
 				<h2 class="text-center">Development</h2>
-				<p class="text-center">Twitter is the best way to follow the development of the game. Look forward to the release in December!</p>
+				<p class="text-center">Twitter is the best way to follow the development of the game. Look forward to the release in October!</p>
 				<p class="text-center">We've been <a href="http://steamcommunity.com/sharedfiles/filedetails/?id=380437841">Greenlit</a> on Steam! Thank you so much!</p>
 			</div>
 		</div>
@@ -292,8 +320,8 @@
 
 	<!-- Fullscreen background video -->
 	<video autoplay loop poster="video/br_loop_2.png" id="bgvid">
-		<source src="video/br_loop_2.webm" type="video/webm">
-		<source src="video/br_loop_2.mp4" type="video/mp4">
+		<source src="video/br_loop3.webm" type="video/webm">
+		<source src="video/br_loop3.mp4" type="video/mp4">
 	</video>
 
 	<script>

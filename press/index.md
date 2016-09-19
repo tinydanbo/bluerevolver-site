@@ -21,7 +21,7 @@ Stellar Circle
 [link][greenlight]
 
 **Release Date:**  
-Q1 2016
+October 2016
 
 **Platforms:**  
 Windows / Mac / Linux
@@ -42,15 +42,28 @@ The style of the game is vibrant but restrained, working at low base resolutions
 
 The defining mechanic of the game is usage of a special weapon - the full version will release with a wide variety of these - a special weapon capable of granting huge score multipliers if used at the right moment or of tearing through tough enemies. Players will have to constantly think about how and where to use the weapon or how to build the 8x chain necessary to rack up a high score - generally while dodging a few hundred bullets in the process.
 
+## Discussion points
+
+We realise it may be difficult to cover this game. The game is highly demanding, intended to be slowly learned over the course of weeks and months to experience everything on offer. To help provide a starting point for discussion and to provide some context for your own experiences with the game, we have supplied some talking points here that you may find interesting :
+
+* We prefer the term "manic shooter" to terms like "bullet hell".
+    * This is partially due to the game's comparatively high tempo and sparse bullet patterns.
+* We wanted to build a game that was authentic and demanding yet wholly inviting for newcomers, and knew this would be a more involved task than simply throwing an "Easy mode" in and hoping for the best :
+    * The scoring system is built around "big moments" and strokes of genius rather than sheer perfectionism, and the player can spend resources to save a poorly-executed chain. Even scoring badly in this game can feel very good if you have the basics down, and an early mistake is never intended to completely cripple a scoring run.
+    * The game makes extensive use of an adaptive difficulty system which is fully visible to the player - a small bar on top of the screen. Most arcade shooters implement something like this, but games are rarely built around it being visible and understandable for players. It builds with several factors - slowly over time, faster as the player destroys enemies, faster still if the player is scoring well - but dying will *always* drop it sharply and have an immediate, noticeable effect.
+    * The game includes a "Mission" mode which offers single-level challenges for players to tackle. Some of these are pure score or survival challenges, but others are intended to build the player's skill in less direct ways. A mission where a large nemesis bullet constantly follows the player is intended to make the player learn to use the whole screen, a "bullets fade out over time" mission forces the player to watch the whole screen and dodge things without looking directly at their ship, etc.
+    * Each bullet pattern has a distinct, short, evocative name. This makes it easier to talk about the game and get advice.
+* We initially intended for this project to be over and done with in about 10 months. Instead it took roughly 2 years.
+
 ## Features
 
 * Arcade-authentic, demanding "bullet hell" action
+* Adaptive difficulty system
 * Deep, nuanced "flourish" system for scoring - easy to learn but hard to master
-* 5 stages, plus a second loop for master players
-* Daily challenge mode gives players a reason to keep coming back
-* Novice mode 
-* Post-mortem analysis helps new players understand their play
-* Replay / scoreboard support
+* 5 stages, plus a true last boss for master players
+* "Mission" mode, intended to teach players the basic skills
+* 2 pilots, 3 shot types each, 4 special weapons each
+* Unlockable art, remix tracks
 
 ## History
 
