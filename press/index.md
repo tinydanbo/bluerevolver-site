@@ -14,6 +14,9 @@ Stellar Circle
 **Social:**  
 [twitter.com/bluerevolverstg][twitter] 
 
+**Youtube:**  
+[link][youtube]
+
 **Devlog:**  
 [bluerevolverstg.tumblr.com][tumblr] 
 
@@ -34,79 +37,113 @@ Steam, Humble, itch.io
 
 ## Description
 
-Blue Revolver is a fresh new manic shooter for PC. Inspired by the golden age of developers like CAVE and Raizing, we set out to create a challenging, interesting game for expert players - and to provide a set of special features to help new/casual players aspire to greatness.
+Blue Revolver is a fresh new manic shooter for Windows, OS X and Linux. Inspired by a lifetime of playing arcade classics from developers like CAVE and Raizing, we set out to create a challenging, rich game for expert players - and to provide some special features to help introduce newer or more casual players.
 
-Mae, bunny-eared technical genius, is pitted against the forces of "Blue Revolver" - a group seeking to confiscate or neutralize her volatile, dangerous creations by sending a few hundred volatile, dangerous enemies at her. Blasting off in a prototype ship armed with a fancy special weapon, she strikes back at the heart of their base!
+The game's world is one that can be manipulated, in a magic-like way, through code and scripts. And sadly - Mae, the protagonist of the game, isn't quite as smart as she thinks she is. While she's a self-professed genius programmer, her sloppy creations and devices present a huge environmental risk for the game's world due to the creation of harmful junk data. And so, she is turned against the forces of "Blue Revolver" - an environmental group out to confiscate or neutralize her volatile, dangerous creations. Blasting off in her most dangerous device armed with a fancy special weapon, she strikes back!
 
-The style of the game is vibrant but restrained, working at low base resolutions and strict colour palettes to achieve a look that fans are comparing to classic Japanese systems like the Wonderswan Color - though naturally with a lot of hard work, polish and pure energy behind it. 
+The game works at a low base resolution and a strict colour palette to achieve a crisp, crunchy pixel art style. Eric Muentes, aka "woof", brings his unique, colourful art style to the game. We're not exactly sure we could get the game running on a Game Boy Advance, but it'd look about right!
 
-The defining mechanic of the game is usage of a special weapon - the full version will release with a wide variety of these - a special weapon capable of granting huge score multipliers if used at the right moment or of tearing through tough enemies. Players will have to constantly think about how and where to use the weapon or how to build the 8x chain necessary to rack up a high score - generally while dodging a few hundred bullets in the process.
+**Blue Revolver's three key features are :**
+
+* The special weapon and "flourish" system. The special weapons are great at cutting through tough enemies or blocking enemy attacks, but they truly shine when used at exactly the right time - providing the crazy flourish to a short chain of enemies and generating huge score multipliers! Players have to constantly consider how and when to use the weapon, managing their ammo - because naturally, scoring big awards plenty of extra lives...
+* The adaptive difficulty system. Under the hood, the game uses 5 difficulty "levels" that it can switch between on the fly. Scoring big and staying alive slowly climbs the player up these difficulty levels, but dying will always drop the player down at least one level. 
+* The mission mode, which breaks the game up into 24 single-stage missions. Some offer strict scoring or survival challenges, others are intended to build the player's skills indirectly through things like odd experimental weapons, bullets that fade out and big pursuer bullets.
+
+Thank you for your interest in the game! If you represent a review site or blog, you can [email us][contact] to request a key. If you run a YouTube or Twitch channel, please [message us directly through Youtube][youtube_about] - we are unable to grant keys directly to Youtubers or streamers through email.
+
+## Videos
+
+Trailer coming very soon - for now, some brief gameplay footage! 
+
+<iframe src="//www.youtube.com/embed/Tq5g4kc842U" frameborder="0" allowfullscreen></iframe>
 
 ## Discussion points
 
-We realise it may be difficult to cover this game. The game is highly demanding, intended to be slowly learned over the course of weeks and months to experience everything on offer. To help provide a starting point for discussion and to provide some context for your own experiences with the game, we have supplied some talking points here that you may find interesting :
+**We realise it may be difficult to cover this game.** The game is highly demanding, intended to be slowly learned over the course of weeks and months to experience everything on offer. To help provide a starting point for discussion and to provide some context for your own experiences with the game, we have supplied a few talking points here that you may find interesting :
 
-* We prefer the term "manic shooter" to terms like "bullet hell".
+* When we started work on this game, we wanted to create a "stepping stone" into the genre. At the time, there were few beginner-friendly games that can be easily acquired for PC and picked up. We knew that making something like this would be more involved than simply making an easy mode and hoping for the best :
+    * For example, rather than making a perfectionist, "perfect line" type of scoring system, BR's scoring system is based around many big, independent moments and strokes of genius. The player also has many tools to deal with poor execution - even scoring badly in this game can feel very good once you have the basics down. Early mistakes are designed not to cripple scoring or survival runs.
+    * The adaptive difficulty system is completely visible to the player. Many arcade games implement similar systems, but these are usually intended more to make the game harder on experienced players than to make it more forgiving for new players - and almost never make it visible and understandable for players.
+    * This design goal informs nearly everything about the game - it would be too long to go over everything, please [email us][contact] if you'd like to discuss more.
+* We initially intended for this project to be over and done with in about 10 months. Instead it took roughly 2 years. Shmups are often presented to new developers as the easiest type of simple game to make, but nothing is easy if you're passionate about it.
+* We prefer the term "manic shooter" to terms like "bullet hell" or "danmaku" (though we won't get upset if this is how you describe the game!)
     * This is partially due to the game's comparatively high tempo and sparse bullet patterns.
-* We wanted to build a game that was authentic and demanding yet wholly inviting for newcomers, and knew this would be a more involved task than simply throwing an "Easy mode" in and hoping for the best :
-    * The scoring system is built around "big moments" and strokes of genius rather than sheer perfectionism, and the player can spend resources to save a poorly-executed chain. Even scoring badly in this game can feel very good if you have the basics down, and an early mistake is never intended to completely cripple a scoring run.
-    * The game makes extensive use of an adaptive difficulty system which is fully visible to the player - a small bar on top of the screen. Most arcade shooters implement something like this, but games are rarely built around it being visible and understandable for players. It builds with several factors - slowly over time, faster as the player destroys enemies, faster still if the player is scoring well - but dying will *always* drop it sharply and have an immediate, noticeable effect.
-    * The game includes a "Mission" mode which offers single-level challenges for players to tackle. Some of these are pure score or survival challenges, but others are intended to build the player's skill in less direct ways. A mission where a large nemesis bullet constantly follows the player is intended to make the player learn to use the whole screen, a "bullets fade out over time" mission forces the player to watch the whole screen and dodge things without looking directly at their ship, etc.
-    * Each bullet pattern has a distinct, short, evocative name. This makes it easier to talk about the game and get advice.
-* We initially intended for this project to be over and done with in about 10 months. Instead it took roughly 2 years.
+    * It is also because the latter terms can present these games as some sort of odd masochism or strange punishment - rather than a manic, joyful struggle.
 
 ## Features
 
-* Arcade-authentic, demanding "bullet hell" action
+* Arcade-authentic, demanding shooting action
 * Adaptive difficulty system
+* 3 game modes - Normal, Hyper and Parallel
 * Deep, nuanced "flourish" system for scoring - easy to learn but hard to master
 * 5 stages, plus a true last boss for master players
 * "Mission" mode, intended to teach players the basic skills
 * 2 pilots, 3 shot types each, 4 special weapons each
-* Unlockable art, remix tracks
+* Rebindable controls, full screen options, etc
+* Unlockable art, remix tracks and other goodies - unlockable by clearing missions or attempting/completing full clears of the game
+* *Steam leaderboards, replay support and achievements are planned for a post-release update.*
 
 ## History
 
 The team came together some time in August 2014 for Ludum Dare 30, producing a "frantic action" game about a bunnygirl destroying enemies in and out of a mech - [RED ENTITY](http://woofycakes.itch.io/red-entity). The game was fairly well-received, claiming a #21 rating in Fun, #32 in Graphics, #39 in Audio and #41 overall out of over 2,500 entries. It quickly became clear that the team is capable of working together well, and we immediately began work expanding on Red Entity. However, after failing to determine a strong direction for the game to go in, the team decided to work on a manic shooter instead - a genre familiar and interesting to the artists and programmer - and the bunnygirl came along for the ride too in a similarly violent role.
 
-An alpha demo of the game was released on 19th January 2015, and was very well-received by both expert shooter fans and beginners - simple twitter support allowing players to share highscores and compare strategies even at this stage of development. Our Greenlight campaign was a quick success (link [here][greenlight]) - and we hope to release the game in December 2015. We do not plan on using Early Access or pursuing crowdfunding.
+An alpha demo of the game was released on 19th January 2015, and was very well-received by both expert shooter fans and beginners - simple twitter support allowing players to share highscores and compare strategies even at this stage of development. Our Greenlight campaign was a quick success (link [here][greenlight]).
 
 A v0.5 3-stage demo of the game was released on 7th September, showing off more content and polish - this demo also featured at Comiket 88. This demo also came with a month-long score challenge - beating the benchmark of 20 million and supplying a video of the run would secure the player a spot in the credits.
 
-## Videos
+Since then, the game has been shown in various states at a few events and conventions - Touhoucon 2015, Play EXPO Glasgow 2016. Response was generally positive at these events, with several shooter fans appearing specifically to see Blue Revolver.
 
-No trailer yet - some brief gameplay footage! 
+We are planning on a full release in October 2016. We have not used Early Access or crowdfunding.
 
-[Youtube](https://www.youtube.com/watch?v=Tq5g4kc842U "BLUE REVOLVER - v0.5 demo footage")
+## Screenshots
 
-<iframe src="//www.youtube.com/embed/Tq5g4kc842U" frameborder="0" allowfullscreen></iframe>
+download all screenshots as ** [.zip (2.26 MB)](assets/images/screenshots/bluerev_launch_screenshots.zip "Images zip") **
 
-## Images
+[![](assets/images/screenshots/0001.png)](assets/images/screenshots/0001.png)
+[![](assets/images/screenshots/0002.png)](assets/images/screenshots/0002.png)
+[![](assets/images/screenshots/0003.png)](assets/images/screenshots/0003.png)
+[![](assets/images/screenshots/0004.png)](assets/images/screenshots/0004.png)
+[![](assets/images/screenshots/0005.png)](assets/images/screenshots/0005.png)
+[![](assets/images/screenshots/0006.png)](assets/images/screenshots/0006.png)
+[![](assets/images/screenshots/0007.png)](assets/images/screenshots/0007.png)
+[![](assets/images/screenshots/0008.png)](assets/images/screenshots/0008.png)
+[![](assets/images/screenshots/0009.png)](assets/images/screenshots/0009.png)
+[![](assets/images/screenshots/0010.png)](assets/images/screenshots/0010.png)
+[![](assets/images/screenshots/0011.png)](assets/images/screenshots/0011.png)
+[![](assets/images/screenshots/0012.png)](assets/images/screenshots/0012.png)
+[![](assets/images/screenshots/0013.png)](assets/images/screenshots/0013.png)
+[![](assets/images/screenshots/0014.png)](assets/images/screenshots/0014.png)
+[![](assets/images/screenshots/0015.png)](assets/images/screenshots/0015.png)
+[![](assets/images/screenshots/0016.png)](assets/images/screenshots/0016.png)
+[![](assets/images/screenshots/0017.png)](assets/images/screenshots/0017.png)
+[![](assets/images/screenshots/0018.png)](assets/images/screenshots/0018.png)
+[![](assets/images/screenshots/0019.png)](assets/images/screenshots/0019.png)
+[![](assets/images/screenshots/0020.png)](assets/images/screenshots/0020.png)
+[![](assets/images/screenshots/0021.png)](assets/images/screenshots/0021.png)
+[![](assets/images/screenshots/0022.png)](assets/images/screenshots/0022.png)
+[![](assets/images/screenshots/0023.png)](assets/images/screenshots/0023.png)
+[![](assets/images/screenshots/0024.png)](assets/images/screenshots/0024.png)
+[![](assets/images/screenshots/0025.png)](assets/images/screenshots/0025.png)
+[![](assets/images/screenshots/0026.png)](assets/images/screenshots/0026.png)
+[![](assets/images/screenshots/0027.png)](assets/images/screenshots/0027.png)
+[![](assets/images/screenshots/0028.png)](assets/images/screenshots/0028.png)
+[![](assets/images/screenshots/0029.png)](assets/images/screenshots/0029.png)
+[![](assets/images/screenshots/0030.png)](assets/images/screenshots/0030.png)
+[![](assets/images/screenshots/0031.png)](assets/images/screenshots/0031.png)
+[![](assets/images/screenshots/0032.png)](assets/images/screenshots/0032.png)
 
-download all screenshots as ** [.zip (638 KB)](assets/images/bluerev_september_screenshots.zip "Images zip") **
+## Art
 
-download all promo art as ** [.zip (7.91 MB)](assets/images/bluerev_september_art.zip "Promo zip") **
+download all art as ** [.zip (12.2 MB)](assets/images/art/bluerev_launch_art.zip "Promo zip") **
 
-[![](assets/images/bluerev_sep2015_01.png)](assets/images/bluerev_sep2015_01.png)
-[![](assets/images/bluerev_sep2015_02.png)](assets/images/bluerev_sep2015_02.png)
-[![](assets/images/bluerev_sep2015_03.png)](assets/images/bluerev_sep2015_03.png)
-[![](assets/images/bluerev_sep2015_04.png)](assets/images/bluerev_sep2015_04.png)
-[![](assets/images/bluerev_sep2015_05.png)](assets/images/bluerev_sep2015_05.png)
-[![](assets/images/bluerev_sep2015_06.png)](assets/images/bluerev_sep2015_06.png)
-[![](assets/images/bluerev_sep2015_07.png)](assets/images/bluerev_sep2015_07.png)
-[![](assets/images/bluerev_sep2015_08.png)](assets/images/bluerev_sep2015_08.png)
-[![](assets/images/bluerev_sep2015_09.png)](assets/images/bluerev_sep2015_09.png)
-[![](assets/images/bluerev_sep2015_10.png)](assets/images/bluerev_sep2015_10.png)
-[![](assets/images/bluerev_sep2015_11.png)](assets/images/bluerev_sep2015_11.png)
-[![](assets/images/bluerev_sep2015_12.png)](assets/images/bluerev_sep2015_12.png)
-[![](assets/images/bluerev_sep2015_13.png)](assets/images/bluerev_sep2015_13.png)
-[![](assets/images/bluerev_sep2015_14.png)](assets/images/bluerev_sep2015_14.png)
-
-[![](assets/images/banner.png)](assets/images/banner.png)
-[![](assets/images/br_cdf.png)](assets/images/br_cdf.png)
+[![](assets/images/art/extra5.png)](assets/images/art/extra5.png)
+[![](assets/images/art/extra1.png)](assets/images/art/extra1.png)
+[![](assets/images/art/extra2.png)](assets/images/art/extra2.png)
+[![](assets/images/art/promo1.png)](assets/images/art/promo1.png)
+[![](assets/images/art/promo5.png)](assets/images/art/promo5.png)
 [![](assets/images/char_mae2_t.png)](assets/images/char_mae2_t.png)
-[![](assets/images/char_ale_t.png)](assets/images/char_ale_t.png)
 [![](assets/images/char_rum_t.png)](assets/images/char_rum_t.png)
+[![](assets/images/char_ale_t.png)](assets/images/char_ale_t.png)
 [![](assets/images/char_don_t.png)](assets/images/char_don_t.png)
 [![](assets/images/char_val_t.png)](assets/images/char_val_t.png)
 [![](assets/images/char_ira_t.png)](assets/images/char_ira_t.png)
@@ -165,6 +202,8 @@ download all promo art as ** [.zip (7.91 MB)](assets/images/bluerev_september_ar
 [homepage]: http://bluerevolvergame.com "Blue Revolver"
 [tumblr]: http://bluerevolverstg.tumblr.com
 [contact]: mailto:danbo@bluerevolvergame.com
+[youtube]: https://www.youtube.com/channel/UCuRdRykIm7OkgU-vCVoEj4g
+[youtube_about]: https://www.youtube.com/channel/UCuRdRykIm7OkgU-vCVoEj4g/about
 
 <!--- Social -->
 

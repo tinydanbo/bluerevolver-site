@@ -166,6 +166,16 @@ h6, .h6 {
   padding: 10px;
 }
 
+#screenshots img {
+  width: 24%;
+  padding: 5px;
+}
+
+#art img {
+  width: 30%;
+  padding: 6px;
+}
+
 .iframe-container {
   position: relative;
   padding-bottom: 56.5%;
