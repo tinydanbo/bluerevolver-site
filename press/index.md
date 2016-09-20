@@ -134,11 +134,10 @@ download all screenshots as ** [.zip (2.26 MB)](assets/images/screenshots/bluere
 
 ## Art
 
-download all art as ** [.zip (12.2 MB)](assets/images/art/bluerev_launch_art.zip "Promo zip") **
+download all art as ** [.zip (9.71 MB)](assets/images/art/bluerev_launch_art.zip "Promo zip") **
 
 [![](assets/images/art/extra5.png)](assets/images/art/extra5.png)
 [![](assets/images/art/extra1.png)](assets/images/art/extra1.png)
-[![](assets/images/art/extra2.png)](assets/images/art/extra2.png)
 [![](assets/images/art/promo1.png)](assets/images/art/promo1.png)
 [![](assets/images/art/promo5.png)](assets/images/art/promo5.png)
 [![](assets/images/char_mae2_t.png)](assets/images/char_mae2_t.png)
