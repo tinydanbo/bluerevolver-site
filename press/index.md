@@ -53,7 +53,7 @@ Thank you for your interest in the game! If you represent a review site or blog,
 
 ## Videos
 
-Trailer coming very soon - for now, some brief gameplay footage! 
+<iframe src="//www.youtube.com/embed/7IP6Qz8G-CM" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="//www.youtube.com/embed/Tq5g4kc842U" frameborder="0" allowfullscreen></iframe>
 
