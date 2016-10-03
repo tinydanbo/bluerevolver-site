@@ -53,8 +53,15 @@ Thank you for your interest in the game! If you represent a review site or blog,
 
 ## Videos
 
+Launch trailer!
 <iframe src="//www.youtube.com/embed/7IP6Qz8G-CM" frameborder="0" allowfullscreen></iframe>
 
+
+An extensive dev interview with STG Weekly - a weekly show about shoot-em-ups. Starts with some heavy technical difficulties, but they smooth out later!
+<iframe src="//www.youtube.com/embed/JhLg-K7lJt4" frameborder="0" allowfullscreen></iframe>
+
+
+Old v0.5 demo footage!
 <iframe src="//www.youtube.com/embed/Tq5g4kc842U" frameborder="0" allowfullscreen></iframe>
 
 ## Discussion points
