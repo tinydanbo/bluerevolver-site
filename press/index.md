@@ -33,6 +33,7 @@ Windows / Mac / Linux
 Steam, Humble, itch.io
 
 **Releases:**  
+[steam][steam]
 [v0.5 demo][v05_demo]
 
 ## Description
@@ -161,6 +162,12 @@ download all art as ** [.zip (9.71 MB)](assets/images/art/bluerev_launch_art.zip
 
 ## Articles
 
+> 9/10
+[IGN Japan](http://jp.ign.com/blue-revolver/8259/review/blue-revolver)
+
+> "Everything about Blue Revolver is well done. It nails the most important aspects, while looking and sounding fantastic. There's enough depth to the various sub-systems to keep experts entertained, but at the same time it doesn't put off or condescend newcomers."
+[Cubed3](http://www.cubed3.com/review/3156/1/blue-revolver-pc.html)
+
 > "Blue Revolver is a SHMUP with Real Personality"
 [Hardcore Gamer](http://www.hardcoregamer.com/2015/02/11/blue-revolver-is-a-shmup-with-real-personality/133904/)
 
@@ -219,3 +226,5 @@ download all art as ** [.zip (9.71 MB)](assets/images/art/bluerev_launch_art.zip
 [v015_alphademo]: http://woofycakes.itch.io/blue-revolver-demo
 [v05_demo]: http://woofycakes.itch.io/blue-revolver-v05
 [greenlight]: http://steamcommunity.com/sharedfiles/filedetails/?id=380437841
+
+[steam]: http://store.steampowered.com/app/439490/
