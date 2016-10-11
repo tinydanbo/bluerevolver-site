@@ -50,7 +50,7 @@ The game works at a low base resolution and a strict colour palette to achieve a
 * The adaptive difficulty system. Under the hood, the game uses 5 difficulty "levels" that it can switch between on the fly. Scoring big and staying alive slowly climbs the player up these difficulty levels, but dying will always drop the player down at least one level. 
 * The mission mode, which breaks the game up into 24 single-stage missions. Some offer strict scoring or survival challenges, others are intended to build the player's skills indirectly through things like odd experimental weapons, bullets that fade out and big pursuer bullets.
 
-Thank you for your interest in the game! If you represent a review site or blog, you can [email us][contact] to request a key. If you run a YouTube or Twitch channel, please [message us directly through Youtube][youtube_about] - we are unable to grant keys directly to Youtubers or streamers through email.
+Thank you for your interest in the game! If you represent a review site or blog, you can [email us][contact] to request a key. If you run a YouTube or Twitch channel, please [message us directly through Youtube][youtube_about] - we are unable to grant keys directly to Youtubers or streamers through email. You can also request keys through [keymailer][keymailer].
 
 ## Videos
 
@@ -228,3 +228,5 @@ download all art as ** [.zip (9.71 MB)](assets/images/art/bluerev_launch_art.zip
 [greenlight]: http://steamcommunity.com/sharedfiles/filedetails/?id=380437841
 
 [steam]: http://store.steampowered.com/app/439490/
+
+[keymailer]: https://www.keymailer.co/
