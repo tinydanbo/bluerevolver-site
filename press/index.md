@@ -163,6 +163,9 @@ download all art as ** [.zip (9.71 MB)](assets/images/art/bluerev_launch_art.zip
 
 ## Articles
 
+> 4/5 "Blue Revolver is a rock-solid arcade shooter that hits all the high points of the genre without getting bogged down in its excesses"
+[Hardcore Gamer](http://www.hardcoregamer.com/2016/10/17/review-blue-revolver/230798/)
+
 > 9/10
 [IGN Japan](http://jp.ign.com/blue-revolver/8259/review/blue-revolver)
 
