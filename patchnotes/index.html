@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<title>BLUE REVOLVER Patchnotes (v1.01)</title>
+<style>
+h1,h2,h3,h4,h5,h6 {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+.navbar .brand {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+</style>
+<xmp theme="simplex" style="display:none;">
+## ![](dee.png) v1.01 [31st October 2016]
+
+Thanks for your support! We've taken as much of your feedback as we can during our launch period, and hopefully filed off a few rough edges. Steam (and offline) Achievements, as well as one or two more features, should be in-game in a week or so. In addition, there are some small new features you may find useful:
+
+### Score Info Mode
+
+If you're looking to really try going for highscores and routing the game as efficiently as possible, it can be good to know the exact values of things. Score Info shows the value and multiplier of each enemy destroyed, as well as score bonuses awarded for bullet pattern clearing and BREAK bonuses.
+
+*Please note that enabling this can have an adverse effect on performance. It's intended for practice, studying the game and optimization, not as something to play the game with normally.*
+
+<p style="text-align: center"><img src="score_breakdown.gif" /></p>
+
+### Screen Readability
+
+We've added some extra stuff to help some players with reading the screen. The first is a change to the "Alternate Bullet Colors" setting - changing the pastel blues and pinks of the usual bullets to a stark red, black and green. Alternatively, the "Darken Background" setting will darken stage backgrounds, making it easier to see enemies and bullets. If you have trouble seeing what's going on, try seeing what these two settings can do to help.
+
+<p style="text-align: center"><img src="alt_bullets.png" /> <img src="dark_background.png" /></p>
+
+### Low-Spec Mode
+
+If you're running the game on old/strange hardware, some screens like the Device Select screen may fail to function correctly. We've added Low-Spec Mode - this cuts back on one or two effects in these screens. Only enable it if you have serious graphical problems - it offers no performance benefits.
+
+### Patchnotes
+
+* Added score breakdown mode, enable "Score Info" in Options -> Gameplay.
+* Added an optional new bullet colour scheme. Enable it in Options -> Gameplay.
+* Added a "Darken Background" option. Enable it in Options -> Gameplay.
+* Added "Low-Spec Mode". This disables all stencil effects, which seem to be buggy on old hardware.
+* Added -windowed and -fullscreen launch flags - useful for resetting configuration if you've misconfigured the game.
+* Added the ability to select which controller to use (the game defaults to accepting anything) in the Input menu.
+* The True Last Boss no longer activates for credit feeders.
+* Unlocking free play now instantly enables it.
+* Players with all buyable unlocks no longer see star income.
+* Fixed a safespot in HEURISTIC/NUDGE.
+* The break for GUTTERSNIPE is hinted now.
+* The break for OVERTIME is now more consistent. (Previously, part of the requirement was that you finish it off by dealing damage to the mech and not an option - this was an oversight)
+* Fixed a bug with SQUIB where the big projectile would rattle at the bottom of the screen.
+* Fixed erratic behaviour when the stage 3 midboss is timed out.
+* Fixed a small quirk where a player in game over would have too many bombs and ammo.
+* Gallery text can now be hidden with the "Rapid Fire" button.
+* All missions now show quotas or A+ status where applicable.
+* Carrier enemies in stage 3 now fly away after a time.
+* Added a prompt at the end of the credits roll.
+* Improved the game flow when going back to the menu from missions and stage select.
+* Enter, Backspace, Escape and Space, Arrow Keys now always perform game functions unless bound otherwise.
+* Fixed a bug where beeps played in the name entry were too loud.
+* Fixed a bug where music wouldn't seek to the right place on certain stages in Stage Select mode.
+* Fixed a bug where enemy spawns are inconsistent between standard play and Stage Select on stage 3.
+* Fixed some typos and odd grammar.
+* Fixed a 200MB memory leak in Gallery mode.
+* Fixed a quirk where the game would draw duplicate frames, putting unnecessary stress on the graphics card.
+* The FPS counter now shows the FPS the game is actually running at. Please note, due to a quirk of the engine, external FPS counters may show high numbers if v-sync is turned off.
+* Fixed a hard crash in aspect ratio selection on certain monitor setups.
+* Fixed an issue with the "Boss Rush" mission where it couldn't be cleared.
+* Added a tentative fix for a "black lines in stage background" issue on some graphics cards.
+</xmp>
+
+<script src="strapdown/v/0.2/strapdown.js"></script>
+</html>
