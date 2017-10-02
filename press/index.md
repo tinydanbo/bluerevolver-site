@@ -12,7 +12,7 @@ Stellar Circle
 [danbo@bluerevolvergame.com][contact]
 
 **Social:**  
-[twitter.com/bluerevolverstg][twitter] 
+[twitter.com/stellarcircle_][twitter] 
 
 **Youtube:**  
 [link][youtube]
@@ -211,7 +211,7 @@ download all art as ** [.zip (9.71 MB)](assets/images/art/bluerev_launch_art.zip
 [danbo@bluerevolvergame.com][contact]
 
 **Twitter**  
-[twitter.com/bluerevolverstg][twitter]
+[twitter.com/stellarcircle_][twitter]
 
 <!--- =====================================================================  -->
 <!--- Referenced links -->
@@ -224,7 +224,7 @@ download all art as ** [.zip (9.71 MB)](assets/images/art/bluerev_launch_art.zip
 
 <!--- Social -->
 
-[twitter]: https://twitter.com/bluerevolverstg
+[twitter]: https://twitter.com/stellarcircle_
 [skype]: callto:tinydanbo
 
 [v015_alphademo]: http://woofycakes.itch.io/blue-revolver-demo
